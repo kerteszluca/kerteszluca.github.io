@@ -1,0 +1,16 @@
+main{
+  width: 800px;
+  margin: 0 auto;
+}
+
+header{
+  background-image: url('http://stayathome-syllabus.greenfox.academy/week01/assets/first-website-header.png');
+  width: 1200px;
+  height: 400px;
+  margin: 0 auto;
+  background-size: cover;
+}
+
+blockquote::before {
+  content: '”';
+}
